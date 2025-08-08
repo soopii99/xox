@@ -1,0 +1,5 @@
+
+{
+  "name": "Gemini Tic-Tac-Toe",
+  "description": "A classic Tic-Tac-Toe (XOX) game with a modern interface. Supports two players, keeps score, and allows player customization. Built with React and Tailwind CSS for a sleek and responsive experience."
+}
